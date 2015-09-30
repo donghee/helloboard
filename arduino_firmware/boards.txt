@@ -17,6 +17,7 @@ helloboard.bootloader.lock_bits=0x0F
 helloboard.build.mcu=atmega168
 helloboard.build.f_cpu=7372800L
 helloboard.build.core=arduino
+helloboard.build.variant=arduino:standard
 
 ##############################################################
 
